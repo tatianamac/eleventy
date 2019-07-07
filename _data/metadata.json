@@ -1,0 +1,16 @@
+{
+  "title": "Designer &middot; Tatiana Mac",
+  "url": "https://www.tatianamac.com/",
+  "description": "A personal site for Tatiana Mac, an American designer who builds inclusive, accessible, and ethical products with thoughtful practices.",
+  "feed": {
+    "subtitle": "Work, writing, and speaking.",
+    "filename": "rss.xml",
+    "path": "/rss.xml",
+    "url": "https://tatianamac.com/feed/rss.xml",
+    "id": "https://tatianamac.com/"
+  },
+  "author": {
+    "name": "Tatiana Mac",
+    "email": "inquiry@tatianamac.com"
+  }
+}
